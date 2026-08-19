@@ -31,3 +31,12 @@ Gosto de transformar tarefa manual e repetitiva em software que roda sozinho.
 
 ![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunin14&theme=tokyonight)
 ![Linguagens por commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunin14&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Brunin14/Brunin14/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Brunin14/Brunin14/output/snake.svg">
+  <img alt="Cobrinha comendo minhas contribuições"
+       src="https://raw.githubusercontent.com/Brunin14/Brunin14/output/snake.svg">
+</picture>
