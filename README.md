@@ -6,7 +6,7 @@ Gosto de transformar tarefa manual e repetitiva em software que roda sozinho.
 - 🔭 Trabalhando em: automações e integrações de dados
 - 🌱 Aprendendo: arquitetura de microsserviços e testes automatizados
 - 💬 Fale comigo sobre: React, Django, APIs e automação
-- 📫 Contato: **brunoalvesclaro16@mail.com**
+- 📫 Contato: **brunoalvesclaro16@gmail.com**
 
 ## 🛠️ Stack
 
