@@ -29,5 +29,5 @@ Gosto de transformar tarefa manual e repetitiva em software que roda sozinho.
 
 ## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Brunin14&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin14&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunin14&theme=tokyonight)
+![Linguagens por commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunin14&theme=tokyonight)
