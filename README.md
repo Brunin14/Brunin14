@@ -20,12 +20,77 @@ Gosto de transformar tarefa manual e repetitiva em software que roda sozinho.
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [AutoFin](https://github.com/Brunin14/AutoFin) | Geração automatizada de relatórios financeiros | React · Vite |
-| [Django Auth Microservice](https://github.com/Brunin14/Django-Auth-MicroService) | Microsserviço de autenticação com JWT | Django · Python |
-| [Transcritor Inteligente](https://github.com/Brunin14/Transcritor-Inteligente) | Transcreve áudio/vídeo para texto | Python · Flask |
-| [Portfólio](https://github.com/Brunin14/portfolio) | Meu site pessoal | React · Tailwind |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Brunin14/AutoFin">
+  <img src="https://opengraph.githubassets.com/1/Brunin14/AutoFin" width="100%" alt="AutoFin" />
+</a>
+
+<h3 align="center">AutoFin</h3>
+<p align="center">Gera relatórios financeiros automaticamente a partir dos dados brutos — o que eu fazia à mão no Excel toda semana.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="30" />
+</p>
+<p align="center">
+  <a href="https://auto-fin.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Brunin14/AutoFin"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Brunin14/Django-Auth-MicroService">
+  <img src="https://opengraph.githubassets.com/1/Brunin14/Django-Auth-MicroService" width="100%" alt="Django Auth" />
+</a>
+
+<h3 align="center">Django Auth Microservice</h3>
+<p align="center">Microsserviço de autenticação com JWT, pronto para produção com Gunicorn — plugável em qualquer aplicação.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres" height="30" />
+</p>
+<p align="center">
+  <a href="https://github.com/Brunin14/Django-Auth-MicroService"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Brunin14/Transcritor-Inteligente">
+  <img src="https://opengraph.githubassets.com/1/Brunin14/Transcritor-Inteligente" width="100%" alt="Transcritor" />
+</a>
+
+<h3 align="center">Transcritor Inteligente</h3>
+<p align="center">Transcreve áudio e vídeo para texto automaticamente, com interface web simples.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html" height="30" />
+</p>
+<p align="center">
+  <a href="https://github.com/Brunin14/Transcritor-Inteligente"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Brunin14/portfolio">
+  <img src="https://opengraph.githubassets.com/1/Brunin14/portfolio" width="100%" alt="Portfólio" />
+</a>
+
+<h3 align="center">Portfólio</h3>
+<p align="center">Meu site pessoal, com os projetos e formas de contato. Feito do zero com React e Tailwind.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="30" />
+</p>
+<p align="center">
+  <a href="https://github.com/Brunin14/portfolio"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub
 
