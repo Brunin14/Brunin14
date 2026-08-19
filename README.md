@@ -1,12 +1,27 @@
-# Olá, eu sou o Bruno 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Bruno%20Alves%20Claro&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Desenvolvedor%20Full-Stack&descAlignY=52&descSize=18" width="100%" />
 
-Desenvolvedor full-stack focado em **React**, **Python/Django** e automação de processos.
-Gosto de transformar tarefa manual e repetitiva em software que roda sozinho.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=700&color=70A5FD&center=true&vCenter=true&width=650&height=45&lines=React+%C2%B7+Python+%C2%B7+Django;Automa%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%B5es;Transformo+trabalho+manual+em+software" />
+</p>
 
-- 🔭 Trabalhando em: automações e integrações de dados
-- 🌱 Aprendendo: arquitetura de microsserviços e testes automatizados
-- 💬 Fale comigo sobre: React, Django, APIs e automação
-- 📫 Contato: **brunoalvesclaro16@gmail.com**
+<p align="center">
+  Construo aplicações web e automações que eliminam trabalho repetitivo.<br />
+  Atualmente aprofundando <b>arquitetura de microsserviços</b> e <b>testes automatizados</b>.
+</p>
+
+<p align="center">
+  <a href="mailto:brunoalvesclaro16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://SEU-PORTFOLIO.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br />
 
 ## 🛠️ Stack
 
